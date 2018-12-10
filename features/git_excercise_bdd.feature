@@ -1,7 +1,7 @@
 Feature: git_basic_steps
   #Piotr O.#
 
-Scenario: Creating a repository
+Scenario: Creating a repository at git
   Given you are signed in to Github website
   When you click to create new repository
   Then new repository site is shown
